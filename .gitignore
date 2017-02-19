@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Feb 19 00:04:15 2017
+
+@author: Tolu
+"""
+
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
